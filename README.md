@@ -1,2 +1,2 @@
 # Ukrainian-Refugee-Project
-A project for one of my data science courses identifying country-level economic characteristics predictive of refugee flows. 
+A project for my data science course (CMPS-6160) identifying country-level economic characteristics predictive of refugee flows. 
